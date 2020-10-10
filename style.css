@@ -1,0 +1,50 @@
+h1{
+    text-align:center;
+}
+
+ul{
+    border-radius: 0.5em;
+    background-color: rgba(165, 162, 162, 0.376);
+    width: 10%;
+    padding: 10px;
+    margin-left: 44.5%;
+}
+
+li{
+    list-style: none;
+    padding: 5px;
+    cursor: pointer;
+    margin: 5px;
+    text-align:center;
+}
+
+li:hover{
+    box-shadow: 0px 0px 5px 0px rgba(5, 18, 90, 0.315);
+}
+
+.imagendiv{
+    width: 20%;
+    margin-left: 2%;
+}
+
+.imagendiv img{
+    width: 100%;
+}
+
+#recargar{
+    color:black;
+    text-decoration: none;
+    margin: 3px;
+    padding: 2px;
+}
+
+#texto{
+    color:rgb(39, 39, 39);
+    font-size: 36px;
+    border-bottom: solid rgb(31, 11, 204) 3px;
+    width: 50%;
+}
+
+#descripcion{
+    margin-left: 2%;
+}
